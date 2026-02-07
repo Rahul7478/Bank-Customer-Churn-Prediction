@@ -1,2 +1,5 @@
-# Bank-Customer-Churn-Prediction
+# 📊Bank-Customer-Churn-Prediction
 Customer churn is a critical challenge for banks, as acquiring new customers is often more expensive than retaining existing ones. This project focuses on performing Exploratory Data Analysis (EDA) on bank customer data to understand customer behavior, churn patterns, and key factors influencing churn.
+Using Python, Pandas, NumPy, Matplotlib, and Seaborn, I cleaned and explored the data, analyzed customer demographics such as age, gender, and geography, and examined financial attributes including credit score, account balance, tenure, and number of products 📈.
+
+Through detailed visualizations and statistical analysis, this project reveals important insights such as which customer segments are more likely to churn, how customer engagement and product usage impact loyalty, and how regional and behavioral differences influence retention 💡. The analysis transforms raw data into meaningful business insights that can support data-driven decision making and help banks design effective customer retention strategies 📉➡️📊. This project also lays a strong foundation for future machine learning models, where churn prediction can be automated and optimized to proactively retain high-risk customers 🚀.
